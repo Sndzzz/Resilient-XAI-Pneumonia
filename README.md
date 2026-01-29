@@ -11,3 +11,14 @@ Bu proje, göğüs röntgenlerinden pnömoni teşhisi koyan ve kararlarını XAI
 - [ ] Kermany Veri Setinin Patient-ID bazlı bölünmesi.
 - [ ] InferenceManager sınıfının oluşturulması.
 - [ ] Ortak Conda/Python ortamının kurulması.
+
+
+
+
+src/: Tüm kodlar buraya.
+
+notebooks/: Eğer Jupyter Notebook (Colab) kullanıyorsanız bunları buraya koyun.
+
+docs/: Makaleler ve notlarınız için.
+
+results/: Model çıktısı olan ısı haritalarını buraya kaydedersiniz.
