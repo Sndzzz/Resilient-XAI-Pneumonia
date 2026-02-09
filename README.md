@@ -15,10 +15,4 @@ Bu proje, göğüs röntgenlerinden pnömoni teşhisi koyan ve kararlarını XAI
 
 
 
-src/: Tüm kodlar buraya.
 
-notebooks/: Eğer Jupyter Notebook (Colab) kullanıyorsanız bunları buraya koyun.
-
-docs/: Makaleler ve notlarınız için.
-
-results/: Model çıktısı olan ısı haritalarını buraya kaydedersiniz.
